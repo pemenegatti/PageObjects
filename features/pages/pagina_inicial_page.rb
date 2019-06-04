@@ -1,4 +1,3 @@
 class PaginaInicial < SitePrism::Page
-    set_url '/treinamento/home'
-    
+    set_url '/treinamento/home'    
 end
